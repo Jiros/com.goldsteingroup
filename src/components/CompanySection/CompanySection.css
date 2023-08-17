@@ -40,8 +40,8 @@
     background-color: #111;
     color: #fff;
     cursor: pointer;
-    transform: scale(1.03);
-    transition: all 0.3s ease;
+    transform: scale(1.02);
+    transition: all 0.4s ease;
 }
 
 .ag:hover {
@@ -64,6 +64,17 @@
     background-color: #2b4650;
 }
 
+.vb:hover {
+    background-color: #3b5aa6;
+}
+
+.cb:hover {
+    background-color: #4b0671;
+}
+
+.up:hover {
+    background-color: #c1aa61;
+}
 
 
 .card a:link {text-decoration:none; color: #000;}
