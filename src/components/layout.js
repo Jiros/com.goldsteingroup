@@ -40,7 +40,7 @@ const Layout = ({ children }) => {
             fontSize: `var(--font-sm)`,
           }}
         >
-          © {new Date().getFullYear()} &middot; Allen Goldstein
+          © {new Date().getFullYear()} &middot; Goldstein Holdings
         </footer>
       </div>
     </>
