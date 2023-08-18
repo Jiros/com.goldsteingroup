@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `The Goldstein Group`,
+    title: `Goldstein Holdings`,
     description: `The Allen Goldstein Group of Companies`,
     author: `@gatsbyjs`,
     siteUrl: `https://goldsteingroup.com/`,
