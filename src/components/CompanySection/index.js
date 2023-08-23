@@ -22,7 +22,7 @@ function CompanySection() {
             <a href="https://www.allengoldstein.com/" target="_blank" rel="noreferrer">
                 <div>
                 <StaticImage
-                    src="../../images/allen-goldstein.png"
+                    src="../../images/allen-goldstein-white.png"
                     loading="eager"
                     width={250}
                     quality={95}
