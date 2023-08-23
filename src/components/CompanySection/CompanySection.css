@@ -84,6 +84,10 @@
     background-color: #c1aa61;
 }
 
+.gl:hover {
+    background-color: #0f3539;
+}
+
 
 .card a:link {text-decoration:none; color: #000;}
 .card a:visited {text-decoration:none; color:#000; }
