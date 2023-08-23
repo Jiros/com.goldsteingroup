@@ -134,7 +134,7 @@ function CompanySection() {
             <a href="https://glowlia.com/" target="_blank" rel="noreferrer">
                 <div>
                 <StaticImage
-                    src="../../images/glowlia.png"
+                    src="../../images/glowlia-white.png"
                     loading="eager"
                     width={180}
                     quality={95}
