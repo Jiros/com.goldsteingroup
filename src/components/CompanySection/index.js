@@ -6,6 +6,17 @@ import { StaticImage } from "gatsby-plugin-image"
 function CompanySection() {
     return (
     <div>
+        <section class="splash">
+        <StaticImage
+                    src="../../images/goldstein-holdings-colour-bar.png"
+                    loading="eager"
+                    width={750}
+                    quality={95}
+                    formats={["auto", "webp", "avif"]}
+                    alt=""
+                    style={{ marginBottom: `var(--space-3)` }}
+                />
+        </section>
        <section class="container">
        <div class="card ag">
             <a href="https://www.allengoldstein.com/" target="_blank" rel="noreferrer">
