@@ -50,7 +50,7 @@ function CompanySection() {
                 <p>Sherlock Homes provides luxury, fully furnished apartments in the heart of London. With decades of experience and a focus on customer service Sherlock Homes is the ideal base for trips to the Capital. </p>
             </a>
         </div>
-        <div class="card cc">
+        {/* <div class="card cc">
             <a href="https://cleanandclear.uk.com/" target="_blank" rel="noreferrer">
                 <div>
                 <StaticImage
@@ -65,7 +65,7 @@ function CompanySection() {
                 </div>
                 <p>Clean and Clear is a commercial cleaning company in Central London that provides high quality and reliable commercial cleaning, inventory management, buildings maintenance, end of tenancy cleaning and security & concierge services. </p>
             </a>
-        </div>
+        </div> */}
         <div class="card bs">
             <a href="https://www.bilshaboxingclub.com/" target="_blank" rel="noreferrer">
                 <div>
