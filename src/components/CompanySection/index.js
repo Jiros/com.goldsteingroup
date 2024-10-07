@@ -99,7 +99,7 @@ function CompanySection() {
             </a>
         </div>
         <div class="card cb">
-            <a href="https://cloudeberry.com/" target="_blank" rel="noreferrer">
+            <a href="https://www.cloudeberry.com/" target="_blank" rel="noreferrer">
                 <div>
                 <StaticImage
                     src="../../images/cloudeberry.png"
@@ -144,22 +144,6 @@ function CompanySection() {
                 />
                 </div>
                 <p>Glowlia skincare products are for women who practise self-love and care and contain organic, evidence based ingredients. Glowlia offer a deliberately minimal selection of nourishing products that focus on anti-aging, pigmentation, hydration and achieving a glowing complexion.</p>
-            </a>
-        </div>
-        <div class="card og">
-            <a href="https://www.odysseymalegrooming.com/" target="_blank" rel="noreferrer">
-                <div>
-                <StaticImage
-                    src="../../images/odyssey.png"
-                    loading="eager"
-                    width={250}
-                    quality={95}
-                    formats={["auto", "webp", "avif"]}
-                    alt=""
-                    style={{ marginBottom: `var(--space-3)` }}
-                />
-                </div>
-                <p>Odyssey Male Grooming is a London-based creative hub for barbering, colour and cuts. The salon is an artistic hair-focused space that strives to work with the individual and their unique hair needs.</p>
             </a>
         </div>
        </section>
